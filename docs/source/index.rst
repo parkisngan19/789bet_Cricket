@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+789Bet Cricket
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`789Bet <https://789bet.cricket/>`_ - https://789bet.cricket/ là website cung cấp link đăng nhập và đăng ký 789bet chính thức không chặn. Tại 789bet người chơi có thể nhận ngay 100k thưởng miễn phí chơi thử casino, bắn cá, slot game, cá độ bóng đá,... 789bet nền tảng nhà cái uy tín số #1 Okvip. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 71 Thoại Ngọc Hầu, Hoà Thanh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0378599860. 
 
-Contents
---------
+Email: info@789bet.cricket. 
 
-.. toctree::
+Website: https://789bet.cricket/ 
 
-   usage
-   api
+#789bet #789betcricket #789betlink #789betdangnhap #bet789
